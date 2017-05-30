@@ -28,7 +28,6 @@
     "styled-components": "^2.0.0-15"
   },
   "devDependencies": {
-    "@kadira/storybook": "^2.21.0",
     "assets-webpack-plugin": "3.5.1",
     "babel-core": "6.24.1",
     "babel-eslint": "7.2.2",
@@ -47,6 +46,7 @@
     "mocha": "3.2.0",
     "nyc": "10.2.0",
     "react-test-renderer": "15.5.4",
-    "webpack": "2.4.1"
+    "webpack": "2.4.1",
+    "@storybook/react": "3.0.0"
   }
 }
